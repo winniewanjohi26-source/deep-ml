@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T08:36:46.172Z",
+  "generated_at": "2026-10-13T08:36:48.110Z",
   "items": {
     "math:9": {
       "kind": "math",
@@ -46,6 +46,32 @@
       "last_pushed_at": "2026-09-20T16:51:07.643Z",
       "language": "python",
       "lines": 11
+    },
+    "problem:83": {
+      "kind": "problem",
+      "id": "83",
+      "title": "Dot Product Calculator",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/83",
+      "path": "problems/0083-dot-product-calculator",
+      "first_solved_at": "2026-09-22T08:48:59.894Z",
+      "last_pushed_at": "2026-09-22T08:48:59.894Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:328": {
+      "kind": "problem",
+      "id": "328",
+      "title": "Vector Norms (L1/L2/L-inf) and the Frobenius Norm",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/328",
+      "path": "problems/0328-vector-norms-l1-l2-l-inf-and-the-frobenius-norm",
+      "first_solved_at": "2026-09-22T10:58:13.355Z",
+      "last_pushed_at": "2026-09-22T10:58:13.355Z",
+      "language": "python",
+      "lines": 30
     }
   }
 }
