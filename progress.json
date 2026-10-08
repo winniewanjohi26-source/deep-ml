@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T08:37:01.114Z",
+  "generated_at": "2026-10-13T08:37:03.123Z",
   "items": {
     "math:9": {
       "kind": "math",
@@ -209,6 +209,41 @@
       "last_pushed_at": "2026-10-06T18:36:27.411Z",
       "language": "python",
       "lines": 36
+    },
+    "problem:15": {
+      "kind": "problem",
+      "id": "15",
+      "title": "Linear Regression Using Gradient Descent",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/15",
+      "path": "problems/0015-linear-regression-using-gradient-descent",
+      "first_solved_at": "2026-10-08T10:40:36.117Z",
+      "last_pushed_at": "2026-10-08T10:40:36.117Z",
+      "language": "python",
+      "lines": 28
+    },
+    "math:18": {
+      "kind": "math",
+      "id": "18",
+      "title": "Descriptive Statistics",
+      "difficulty": "easy",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/18",
+      "path": "math/0018-descriptive-statistics",
+      "first_solved_at": "2026-10-08T10:51:20.077Z",
+      "last_pushed_at": "2026-10-08T10:51:20.077Z"
+    },
+    "math:19": {
+      "kind": "math",
+      "id": "19",
+      "title": "Probability Fundamentals",
+      "difficulty": "easy",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/19",
+      "path": "math/0019-probability-fundamentals",
+      "first_solved_at": "2026-10-08T11:03:11.377Z",
+      "last_pushed_at": "2026-10-08T11:03:11.377Z"
     }
   }
 }
