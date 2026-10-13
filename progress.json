@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T08:37:07.127Z",
+  "generated_at": "2026-10-13T08:37:09.337Z",
   "items": {
     "math:9": {
       "kind": "math",
@@ -281,6 +281,19 @@
       "last_pushed_at": "2026-10-11T16:35:29.829Z",
       "language": "python",
       "lines": 16
+    },
+    "problem:184": {
+      "kind": "problem",
+      "id": "184",
+      "title": "Empirical Probability Mass Function (PMF)",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/184",
+      "path": "problems/0184-empirical-probability-mass-function-pmf",
+      "first_solved_at": "2026-10-13T08:35:10.759Z",
+      "last_pushed_at": "2026-10-13T08:35:10.759Z",
+      "language": "python",
+      "lines": 21
     }
   }
 }
