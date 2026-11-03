@@ -16,9 +16,7 @@ def matrix_determinant_and_trace(matrix: list[list[float]]) -> tuple[float, floa
 	trace = 0
 	for i in range(len(matrix)):
 		trace += matrix[i][i]
-	x = 1
-	for i in range(len(matrix)):
-		x *= matrix[i][i]
+
 	n = len(matrix)
 	if n == 2:
 		det = (matrix[0][0]*matrix[1][1])-(matrix[0][1]*matrix[1][0])
